@@ -129,6 +129,24 @@
     <Compile Include="GPIO.h">
       <SubType>compile</SubType>
     </Compile>
+    <Compile Include="Internal_EEPROM_MCAL.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Internal_EEPROM_MCAL.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Keypad_ECU_driver.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Keypad_ECU_driver.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="LCD_ECU_driver.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="LCD_ECU_driver.h">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="LED_ECU_driver.c">
       <SubType>compile</SubType>
     </Compile>
